@@ -13,3 +13,11 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 ## Results
 Linear Regression and Random Forest both achieved >99% accuracy in predicting next-day stock prices, with current price and 7-day moving average as the strongest predictors.
+
+## Visualizations
+
+![Stock Analysis](stock_analysis.png)
+
+![Model Performance](model_performance.png)
+
+![Feature Importance](feature_importance.png)
